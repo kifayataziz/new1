@@ -24,6 +24,9 @@ function scrollFunction() {
 }
 
 // NAVBAR ON MOBILE
+/*This navbar for mobile 
+and the control of its components*/
+
 let elements = document.querySelectorAll(".nav-link:not(.dropdown-toggle)");
 
 for (let i = 0; i < elements.length; i++) {
