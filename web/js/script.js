@@ -7,6 +7,7 @@ window.onscroll = function () {
 	scrollFunctionBTT(); // back to top button
 };
 
+//This is a function used to control the scroll of all pages
 function scrollFunction() {
 	let intViewportWidth = window.innerWidth;
 	if (
